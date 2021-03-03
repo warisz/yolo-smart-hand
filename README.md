@@ -1,4 +1,4 @@
-# yolo-smart-hand
+# yolo-smart-arm
 
 Smart hand able to pick up certain objects based on the trained coco dataset through YOLO object detection. 
 
